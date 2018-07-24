@@ -1,2 +1,2 @@
 # System-AEC
-Współpraca z Mateusz Majkowski
+Cooperation with Mateusz Majkowski.
